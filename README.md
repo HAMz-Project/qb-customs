@@ -1,5 +1,5 @@
-# tir_customs
-Vehicle Customization For QB-Core
+# QB-CUSTOMS
+Vehicle Customization For ESX LEGACY
 
 # License
 
